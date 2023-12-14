@@ -1,13 +1,7 @@
 {
     "types":{
         "premade": {
-            "full": ["ncore.pro", "accounts.freemail.hu", "@freemail.hu", "balkercraft.eu", "newinsane.info", "e-kreta.hu", "disneyplus.com", "hbomax.com", "huntorrent.eu", "steamcommunity.com", "steampowered.com", "estone.cc", "mega.nz", "proton.me", "bithorlo.info", "cracked.io", "nulled.to", "epicgames.com", "hardverapro.hu", "reddit.com", "rockstargames.com", "evilmail.to", "cock.li", "pornhub.com", "xvideos.com", "xhamster.com", "xnxx.com", "tvgo.hu", "telekomtvgo.hu", "spotify.com", "mullvad.net", "simple.hu", "kek.sh", "magnetbank.com", "otp.hu", "unicreditbanking.eu", "erstebank.hu", "nike.com", "nhely.hu", "nethely.hu", "proton.me", "openai.com", "github.com", "paypal.com", "minecraft.net", "flyordie.com"],
-
-            "standard" : ["ncore.pro", "freemail", "balkercraft", "newinsane", "ekreta"],
-            "porn" : ["pornhub.com", "xvideos.com", "xhamster.com", "xnxx.com"],
-            "telekom": ["tvgo.hu", "telekomtvgo.hu"],
-            "fix": ["@freemail.hu"],
-            "left": ["bithorlo.info", "cracked.io", "nulled.to", "epicgames.com", "hardverapro.hu", "reddit.com", "rockstargames.com", "evilmail.to", "cock.li", "pornhub.com", "xvideos.com", "xhamster.com", "xnxx.com", "tvgo.hu", "telekomtvgo.hu", "spotify.com", "mullvad.net", "simple.hu", "kek.sh", "magnetbank.com", "otp.hu", "unicreditbanking.eu", "erstebank.hu", "nike.com", "nhely.hu", "nethely.hu", "proton.me", "openai.com", "github.com", "paypal.com", "minecraft.net", "flyordie.com"]
+            "test": ["google.com"]
         },
         "custom": {
             
