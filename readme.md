@@ -1,12 +1,12 @@
 # autogrep - Easy to use log extractor
 
+
+
+
 ## Usecases
 
 - Extracting useful information from huge files with ease
 - Using grep repeatedly
-
-
-
 
 ## Installation
 
@@ -40,7 +40,11 @@ cd ./autogrep
 
 }
 ```
+4. Run the program
 
+```bash
+py main.py
+```
 ## Configuring
 
 The main config file `settings.json` is located the main folder
@@ -68,7 +72,7 @@ You could enable the verbose output for debugging reasons.
 
 
 
-## :white_check_mark: Todo:
+## ✔️ Todo:
 
 - [x] Basic Functionality
 - [x] JSON Integration
